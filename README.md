@@ -11,12 +11,14 @@ Welcome to my personal learning project where I explore the fundamentals of **Na
 
 This project covers essential NLP tasks such as:
 
-- **Tokenization**: Breaking text into words or sentences.
-- **Stop Words Removal**: Filtering out common words that don't add significant meaning.
-- **Stemming**: Reducing words to their root form.
-- **Lemmatization**: Converting words to their base form.
-- **Part-of-Speech Tagging**: Identifying the grammatical group of words.
-- **Named Entity Recognition (NER)**: Detecting entities like names, dates, and locations.
+- **Tokenization**: Breaking raw text into smaller units like words, sentences, or sub-words.
+- **Stop Words Removal**: Filtering out common, frequently occurring words that typically don't carry significant semantic meaning.
+- **Stemming**: Reducing words to a crude, base or root form by removing suffixes.
+- **Lemmatization**: Converting words to their meaningful base or dictionary form (lemma), considering context.
+- **Part-of-Speech Tagging (POS)**: Identifying the grammatical role of each word (e.g., noun, verb, adjective).
+- **N-Grams**: A contiguous sequence of $n$ items (words or characters) from a text sample.
+- **Count Vectorizer**: A method to convert text into a matrix of token counts, forming numerical features.
+- **Word Sense Disambiguation (WSD)**: The process of identifying the correct meaning (sense) of a word in its specific context.
 
 Additionally, I delve into **Deep Learning** approaches for more advanced NLP applications.
 
